@@ -21,24 +21,9 @@
 - 🌱 Skilled in **Python, Django, React.js, SQL**
 - 💬 Ask me about **Python, Django, React.js, APIs**
 - ⚡ Fun fact: **I enjoy building useful projects**
-- 🌐 Portfolio:  
-  **https://portfolio-beige-three-mpmvsp6nas.vercel.app/**
+- 🌐 Portfolio: **https://portfolio-beige-three-mpmvsp6nas.vercel.app/**
 - 📫 Reach me at: **naveennaveenyadav386@gmail.com**
-
----
-
-### 🚀 Skills & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,bootstrap,mysql,vscode,git,github" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
----
+- 💼 LinkedIn: https://www.linkedin.com/in/naveen-parthanaboina/
 
 ---
 
@@ -52,7 +37,7 @@
 
 <p align="center">
   <a href="https://bustravels1.vercel.app/" target="_blank">
-    <img src="https://cdn.dribbble.com/users/1787323/screenshots/11322553/media/9dc63a64a6b740249bca7ff280991690.gif" width="100%" alt="Bus Booking Project"/>
+   <img src="images/buss.png" width="100%" />
   </a>
 </p>
 
@@ -73,7 +58,7 @@
 
 <p align="center">
   <a href="https://etsy-sage.vercel.app/" target="_blank">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Etsy Clone"/>
+   <img src="images/etsy img.png" width="100%" />
   </a>
 </p>
 
@@ -91,6 +76,65 @@
 
 </tr>
 </table>
+
+---
+
+### 🚀 Skills & Technologies
+
+## 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+</p>
+
+<p align="left">
+HTML •   CSS •   JavaScript   • React.js    • Bootstrap
+</p>
+
+---
+
+## ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+<p align="left">
+Python • Django
+</p>
+
+---
+
+## 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="left">
+MySQL    • SQL
+</p>
+
+---
+
+## 📊 Data Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<p align="left">
+NumPy   • Pandas
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+<p align="left">
+VS Code • Git • GitHub
+</p>
 
 ---
 
