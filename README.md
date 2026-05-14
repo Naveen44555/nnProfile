@@ -40,6 +40,61 @@
 
 ---
 
+---
+
+### 🚀 My Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">🚌 Bus Booking Website</h3>
+
+<p align="center">
+  <a href="https://bustravels1.vercel.app/" target="_blank">
+    <img src="https://cdn.dribbble.com/users/1787323/screenshots/11322553/media/9dc63a64a6b740249bca7ff280991690.gif" width="100%" alt="Bus Booking Project"/>
+  </a>
+</p>
+
+<p align="center">
+  Online bus ticket booking web application developed using Python Full Stack technologies.
+</p>
+
+<p align="center">
+  <a href="https://bustravels1.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-Visit-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%">
+<h3 align="center">🛍️ Etsy Frontend Clone</h3>
+
+<p align="center">
+  <a href="https://etsy-sage.vercel.app/" target="_blank">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Etsy Clone"/>
+  </a>
+</p>
+
+<p align="center">
+  Frontend Etsy clone developed using HTML, CSS, JavaScript, Bootstrap and React.js.
+</p>
+
+<p align="center">
+  <a href="https://etsy-sage.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-Visit-orange?style=for-the-badge"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
