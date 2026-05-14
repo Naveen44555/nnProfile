@@ -23,7 +23,7 @@
 - ⚡ Fun fact: **I enjoy building useful projects**
 - 🌐 Portfolio:  
   **https://portfolio-beige-three-mpmvsp6nas.vercel.app/**
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **naveennaveenyadav386@gmail.com**
 
 ---
 
@@ -41,14 +41,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen44555&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen44555&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Naveen44555&theme=tokyonight" />
